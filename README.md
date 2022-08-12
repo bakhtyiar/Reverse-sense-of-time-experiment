@@ -8,11 +8,12 @@
 - JS
 
 ## How to try
-### Variant 1
+### Download
+#### Variant 1
 1. Click green "Code" button
 2. Click Download ZIP
-### Variant 2
+#### Variant 2
 1. open cli
 2. > git clone https://github.com/bakhtyiar/Nike-Sneaker-Promo.git
-
-3. In downloaded ZIP open index.html in "src" folder
+### And open
+3. In downloaded ZIP or folder open index.html in "src" folder
