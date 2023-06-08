@@ -2,7 +2,7 @@
 ## Simple apllication to test the sense of time
 ![preview image](./github_preview.png)
 
-### Used pure
+### Used native
 - HTML  
 - CSS  
 - JS
@@ -14,6 +14,6 @@
 2. Click Download ZIP
 #### Variant 2
 1. open cli
-2. > git clone https://github.com/bakhtyiar/Nike-Sneaker-Promo.git
+2. `git clone https://github.com/bakhtyiar/Reverse-sense-of-time-experiment`
 ### And open
-3. In downloaded ZIP or folder open index.html in "src" folder
+3. In downloaded ZIP or folder, open index.html in "src" folder
