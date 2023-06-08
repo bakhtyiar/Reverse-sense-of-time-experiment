@@ -14,6 +14,6 @@
 2. Click Download ZIP
 #### Variant 2
 1. open cli
-2. `git clone https://github.com/bakhtyiar/Reverse-sense-of-time-experiment`
+2. `git clone https://github.com/bakhtyiar/Reverse-sense-of-time-experiment.git`
 ### And open
 3. In downloaded ZIP or folder, open index.html in "src" folder
